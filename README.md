@@ -1,3 +1,4 @@
+Setup project
 For running this project you need 
 1) Intall Java 11 on your computer
 2) Install Intelleje IDEA
