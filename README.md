@@ -1,6 +1,17 @@
+**Technologies**
+
+- Java 11
+- MySQL
+- JDBC
+- Javax servlet API
+- JSP
+- Tomcat 9.0.53
+
+
 **Description**
 
 This project is a simple taxi service Java application, which is use JDBC for working with Database and Javax servlet API to work with web.
+It has car, driver and manufacturer entities in DB with which you could work(using CRUD operations). 
 
 
 **Setup project**
