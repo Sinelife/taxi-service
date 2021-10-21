@@ -1,4 +1,10 @@
-Setup project
+**Description**
+
+This project is a simple taxi service Java application, which is use JDBC for working with Database and Javax servlet API to work with web.
+
+
+**Setup project**
+
 For running this project you need 
 1) Intall Java 11 on your computer
 2) Install Intelleje IDEA
