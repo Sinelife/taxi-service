@@ -1,13 +1,12 @@
 package mate.service.impl;
 
+import java.util.Optional;
 import mate.dao.DriverDao;
 import mate.exception.AuthenticationException;
 import mate.lib.Inject;
 import mate.lib.Service;
 import mate.model.Driver;
 import mate.service.AuthenticationService;
-
-import java.util.Optional;
 
 @Service
 public class AuthenticationServiceImpl implements AuthenticationService {
